@@ -1,4 +1,4 @@
-# Control Flow
+# Conditionals
 
 ## Objectives
 
